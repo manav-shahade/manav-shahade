@@ -1,3 +1,4 @@
+![logo](https://github.com/manav-shahade/manav-shahade/blob/main/YouTube%20Banner%20-%20MANAV%20SHAHADE%20%20MASTER%20OF%20COMPUTER%20APPLICATION.png)
 <h1 align="center">Hi 👋, I'm Manav Shahade</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <img align="right"alt="coding"width="400"src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">

@@ -1,0 +1,216 @@
+Footer:
+<footer style="margin-top: 40px; background-color: #333; padding: 20px; color: white; text-align: center;">
+  <div style="max-width: 1200px; margin: 0 auto;">
+      <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+          <div style="flex: 1; padding: 10px;">
+              <img src="static/images/ealg.png" alt="Logo" style="max-width: 100px;">
+          </div>
+          <div style="flex: 1; padding: 10px;">
+              <h2 style="color: white;">Get Started</h2>
+              <ul style="list-style-type: none; padding: 0;">
+                  <li><a href="#" style="color: white; text-decoration: none;">Start</a></li>
+                  <li><a href="#" style="color: white; text-decoration: none;">Soil Test</a></li>
+                  <li><a href="#" style="color: white; text-decoration: none;">Solutions</a></li>
+              </ul>
+          </div>
+          <div style="flex: 1; padding: 10px;">
+              <h2 style="color: white;">Company</h2>
+              <ul style="list-style-type: none; padding: 0;">
+                  <li><a href="#" style="color: white; text-decoration: none;">Contact</a></li>
+                  <li><a href="#" style="color: white; text-decoration: none;">News</a></li>
+                  <li><a href="#" style="color: white; text-decoration: none;">Careers</a></li>
+              </ul>
+          </div>
+          <div style="flex: 1; padding: 10px;">
+              <h2 style="color: white;">Legal</h2>
+              <ul style="list-style-type: none; padding: 0;">
+                  <li><a href="#" style="color: white; text-decoration: none;">Privacy Notice</a></li>
+                  <li><a href="#" style="color: white; text-decoration: none;">Terms of Use</a></li>
+              </ul>
+          </div>
+          <div style="flex: 1; padding: 10px;">
+              <h2 style="color: white;">Quick Links</h2>
+              <ul style="list-style-type: none; padding: 0;">
+                  <li><a href="#" style="color: white; text-decoration: none;">Support Center</a></li>
+                  <li><a href="#" style="color: white; text-decoration: none;">Service Status</a></li>
+                  <li><a href="#" style="color: white; text-decoration: none;">Security</a></li>
+              </ul>
+          </div>
+      </div>
+      <div style="margin-top: 20px;">
+          <p>&copy; 2024  AgriTech. All rights reserved.</p>
+      </div>
+  </div>
+</footer>
+
+INDEX:
+<!-- soldprod --><section class="elementor-section elementor-top-section" style="box-sizing: border-box; padding: 100px; margin: 0 auto; max-width: 1200px;">
+  <div class="elementor-container" style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+    <div class="elementor-column elementor-col-100" style="width: 100%; padding: 10px;">
+      <div class="elementor-widget-wrap">
+        <div class="elementor-widget">
+          <div class="row" style="display: flex; justify-content: space-between;">
+            <!-- Left Column (Tabs) -->
+            <div class="col-xl-4 mb-5" style="flex: 1; padding-right: 1%;" data-aos="fade-right">
+              <div class="text-center text-xl-left mb-lg-5">
+                <h3 class="h1" style="text-align: center;">Features That
+                  <br>
+                   <h3 style="background-color: aqua;-webkit-text-stroke-color: blueviolet;">Solve The Problem</h3></h3>
+              </div>
+              <ul class="nav nav-pills justify-content-center flex-xl-column pr-xl-5" role="tablist">
+                <li class="nav-item" style="margin-bottom: 20px;">
+                  <a class="btn btn-lg btn-primary w-100 active" href="#technology-for-non-tech-farmers" data-toggle="tab" role="tab" aria-controls="technology-for-non-tech-farmers" aria-selected="true" style="display: flex; align-items: center;transition-timing-function: cubic-bezier();">
+                    <svg class="icon bg-primary mr-2" width="24px" height="24px" style="margin-right: 10px;">
+                      <rect opacity="0" x="0" y="0" width="24" height="24"></rect>
+                      <g trnsform="translate(12.500000, 12.000000) rotate(-315.000000) translate(-12.500000, -12.000000) translate(6.000000, 1.000000)" fill="black" opacity="0.3">
+                      <path d="M7.13888889,4 L7.13888889,19 L16.8611111,19 L16.8611111,4 L7.13888889,4 Z M7.83333333,1 L16.1666667,1 C17.5729473,1 18.25,1.98121694 18.25,3.5 L18.25,20.5 C18.25,22.0187831 17.5729473,23 16.1666667,23 L7.83333333,23 C6.42705272,23 5.75,22.0187831 5.75,20.5 L5.75,3.5 C5.75,1.98121694 6.42705272,1 7.83333333,1 Z" fill="" fill-rule="nonzero"></path>
+                    </g>
+                    </svg>
+                    Technology for Non-tech farmers
+                  </a>
+                </li>
+                <li class="nav-item" style="margin-bottom: 20px;">
+                  <a class="btn btn-lg btn-primary w-100" href="#order-online-at-the-best-prices" data-toggle="tab" role="tab" aria-controls="order-online-at-the-best-prices" aria-selected="false" style="display: flex; align-items: center;">
+                    <svg class="icon bg-primary mr-2" width="24px" height="24px" style="margin-right: 10px;">
+                      <rect opacity="0" x="0" y="0" width="24" height="24"></rect>
+                      <g transform="translate(12.500000, 12.000000) rotate(-315.000000) translate(-12.500000, -12.000000) translate(6.000000, 1.000000)" fill="#000000" opacity="0.3">
+                        <path d="M0.353553391,7.14644661 L3.35355339,7.14644661 C3.4100716,7.14644661 3.46549471,7.14175791 3.51945496,7.13274826 C3.92739876,8.3050906 5.04222146,9.14644661 6.35355339,9.14644661 C8.01040764,9.14644661 9.35355339,7.80330086 9.35355339,6.14644661 C9.35355339,4.48959236 8.01040764,3.14644661 6.35355339,3.14644661 C5.04222146,3.14644661 3.92739876,3.98780262 3.51945496,5.16014496 C3.46549471,5.15113531 3.4100716,5.14644661 3.35355339,5.14644661 L0.436511831,5.14644661 C0.912589923,2.30873327 3.3805571,0.146446609 6.35355339,0.146446609 C9.66726189,0.146446609 12.3535534,2.83273811 12.3535534,6.14644661 L12.3535534,19.1464466 C12.3535534,20.2510161 11.4581229,21.1464466 10.3535534,21.1464466 L2.35355339,21.1464466 C1.24898389,21.1464466 0.353553391,20.2510161 0.353553391,19.1464466 L0.353553391,7.14644661 Z"></path>
+                      </g>
+                    </svg>
+                    Order Online At The Best Prices
+                  </a>
+                </li>
+                <li class="nav-item">
+                  <a class="btn btn-lg btn-primary w-100" href="#avail-services" data-toggle="tab" role="tab" aria-controls="avail-services" aria-selected="false" style="display: flex; align-items: center;">
+                    <svg class="icon bg-primary mr-2" width="24px" height="24px" style="margin-right: 10px;">
+                      <rect opacity="0" x="0" y="0" width="24" height="24"></rect>
+                      <path d="M2.56066017,10.6819805 L4.68198052,8.56066017 C5.26776695,7.97487373 6.21751442,7.97487373 6.80330086,8.56066017 L8.9246212,10.6819805 C9.51040764,11.267767 9.51040764,12.2175144 8.9246212,12.8033009 L6.80330086,14.9246212 C6.21751442,15.5104076 5.26776695,15.5104076 4.68198052,14.9246212 L2.56066017,12.8033009 C1.97487373,12.2175144 1.97487373,11.267767 2.56066017,10.6819805 Z"></path>
+                      <path d="M8.56066017,16.6819805 L10.6819805,14.5606602 C11.267767,13.9748737 12.2175144,13.9748737 12.8033009,14.5606602 L14.9246212,16.6819805 C15.5104076,17.267767 15.5104076,18.2175144 14.9246212,18.8033009 L12.8033009,20.9246212 C12.2175144,21.5104076 11.267767,21.5104076 10.6819805,20.9246212 L8.56066017,18.8033009 C7.97487373,18.2175144 7.97487373,17.267767 8.56066017,16.6819805 Z"></path>
+                    </svg>
+                    Available Services
+                  </a>
+                </li>
+              </ul>
+            </div>
+            
+            <!-- Right Column (Content) -->
+            <div class="col" style="flex: 2;" data-aos="fade-left" data-aos-delay="250">
+              <div class="tab-content">
+                <!-- Technology for Non-tech Farmers -->
+                <div class="tab-pane fade show active" id="technology-for-non-tech-farmers" role="tabpanel">
+                  <div class="row justify-content-around align-items-center">
+                    <div class="col-8 col-sm-4 col-lg-4 col-xl-5 text-center">
+                      <img decoding="async" src="static/images/s3.jpg" alt="Screenshot" class="img-fluid applicationIMage" style="max-width: 100%;">
+                    </div>
+                    <div class="col-sm col-md-6 mt-4 mt-sm-0">
+                      <h5>Technology For Non-tech People</h5>
+                      <p>With AgroTech Solution, online ordering becomes an easy task for everyone, even for farmers who aren’t comfortable with technology.</p>
+                      <ul class="list-unstyled">
+                        <li class="py-2">
+                          <i class="fas fa-check-circle text-primary mr-2"></i> <span>Low Data Usage</span>
+                        </li>
+                        <li class="py-2">
+                          <i class="fas fa-check-circle text-primary mr-2"></i> <span>Easy to use</span>
+                        </li>
+                        <li class="py-2">
+                          <i class="fas fa-check-circle text-primary mr-2"></i> <span>24/7 Customer Service</span>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+                <!-- Order Online at the Best Prices -->
+                <div class="tab-pane fade" id="order-online-at-the-best-prices" role="tabpanel">
+                  <div class="row justify-content-around align-items-center">
+                    <div class="col-8 col-sm-4 col-lg-4 col-xl-5 text-center">
+                      <img decoding="async" src="static/images/s2.jpg" alt="Screenshot" class="img-fluid applicationIMage" style="max-width: 100%;">
+                    </div>
+                    <div class="col-sm col-md-6 mt-4 mt-sm-0">
+                      <h5>Order Online At The Best Prices</h5>
+                      <p>We help farmers get the best possible prices online for quality products without compromising on trust or reliability.</p>
+                      <ul class="list-unstyled">
+                        <li class="py-2">
+                          <i class="fas fa-check-circle text-primary mr-2"></i> <span>Wide Range Of Products</span>
+                        </li>
+                        <li class="py-2">
+                          <i class="fas fa-check-circle text-primary mr-2"></i> <span>Doorstep Delivery</span>
+                        </li>
+                        <li class="py-2">
+                          <i class="fas fa-check-circle text-primary mr-2"></i> <span>Cash On Delivery Available</span>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+                <!-- Avail Services -->
+                <div class="tab-pane fade" id="avail-services" role="tabpanel">
+                  <div class="row justify-content-around align-items-center">
+                    <div class="col-8 col-sm-4 col-lg-4 col-xl-5 text-center">
+                      <img decoding="async" src="static/images/s1.jpg" alt="Screenshot" class="img-fluid applicationIMage" style="max-width: 100%;">
+                    </div>
+                    <div class="col-sm col-md-6 mt-4 mt-sm-0">
+                      <h5>Available Services</h5>
+                      <p>AgroTech Solution offers various support services that help farmers get the most out of their resources and increase productivity.</p>
+                      <ul class="list-unstyled">
+                        <li class="py-2">
+                          <i class="fas fa-check-circle text-primary mr-2"></i> <span>Soil Testing</span>
+                        </li>
+                        <li class="py-2">
+                          <i class="fas fa-check-circle text-primary mr-2"></i> <span>Free Agricultural Advice</span>
+                        </li>
+                        <li class="py-2">
+                          <i class="fas fa-check-circle text-primary mr-2"></i> <span>Timely Consultations</span>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<br>
+  <!-- soldprod -->
+  
+  <h1 class="display-4" style="text-align: center;">About Us!</h1>
+  <div id="about-us" style="background-color: white; padding: 20px;">
+    <header style="text-align: center; padding: 20px 0;">
+        <h1 style="color: #333;">Our Team</h1>
+    </header>
+    <div class="container" style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 20px;">
+        <div class="team-member" style="background-color: #fff; border: 1px solid #ddd; padding: 20px; border-radius: 8px; text-align: center; width: 250px;">
+            <img src="static/images/manav.jpg" alt="Team Member 1" style="width: 100%; border-radius: 10%;">
+            <br><br><br>
+            <h2 style="color: #333;">Manav Shahade</h2>
+            <h3 style="color: #777;">CEO & Founder</h3>
+            <p style="color: #555;">CEO and founder of AgriTech Solution</p>
+        </div>
+        <div class="team-member" style="background-color: #fff; border: 1px solid #ddd; padding: 20px; border-radius: 8px; text-align: center; width: 250px;">
+            <img src="static/images/saurabha.jpg" alt="Team Member 2" style="width: 100%; border-radius: 10%;">
+            <br><br><br>
+            <h2 style="color: #333;">Saurabh Shedage</h2>
+            <h3 style="color: #777;">Head Operation & Co-Founder</h3>
+            <p style="color: #555;">Co-Founder and Operation Head of AgriTech Solution</p>
+        </div>
+        <div class="team-member" style="background-color: #fff; border: 1px solid #ddd; padding: 20px; border-radius: 8px; text-align: center; width: 250px;">
+            <img src="static/images/shivam.jpg" alt="Team Member 3" style="width: 100%; border-radius: 10%;">
+            <br><br><br>
+            <h2 style="color: #333;">Shivam Kale</h2>
+            <h3 style="color: #777;">Managing Partner</h3>
+            <p style="color: #555;">Founder of internHUB</p>
+        </div>
+      
+    </div>
+    <br><br><br><br><br><br><br><br><br><br><br><br>
+
+
+  </div>
+<!-- end soldprod -->
+

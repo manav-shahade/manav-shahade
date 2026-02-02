@@ -1,0 +1,50 @@
+CREATE TABLE Customer (cid INT PRIMARY KEY AUTO_INCREMENT, email VARCHAR(255),password VARCHAR(255),address VARCHAR(255),subsidy DECIMAL(10, 2),name VARCHAR(255), phno VARCHAR(15));
+    
+   
+    
+    
+    
+  
+   
+    
+
+CREATE TABLE Product (pid INT PRIMARY KEY,pname VARCHAR(255) ,ncost DECIMAL(10, 2),scost DECIMAL(10, 2),pimg VARCHAR(255));
+    
+
+    
+    
+    
+    
+
+CREATE TABLE Orders (oid INT PRIMARY KEY,cost DECIMAL(10, 2),daddress VARCHAR(255),cid INT, pid INT,quantity INT, tcost DECIMAL(10, 2),FOREIGN KEY (cid) REFERENCES Customer(cid),FOREIGN KEY (pid) REFERENCES Product(pid));
+    
+    
+    
+    
+   
+    
+   
+    
+    
+
+CREATE TABLE subap (name VARCHAR(255),addr VARCHAR(255),ainc DECIMAL(10, 2),cid INT,email VARCHAR(255),adpf VARCHAR(255),inpf VARCHAR(255),FOREIGN KEY (cid) REFERENCES Customer(cid));
+    
+  INSERT INTO subap VALUES("Manav Shahade", "pune","0.2",45,"shahademanav215@gmail.com","s","d")  
+    
+    
+    
+    
+    
+    
+
+CREATE TABLE  management (uid INT PRIMARY KEY, passwd VARCHAR(255),name VARCHAR(255),addr VARCHAR(255));
+
+    
+   
+    
+    
+
+
+
+
+
